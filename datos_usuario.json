@@ -1,0 +1,13 @@
+{
+    "diana": {
+        "contrasena": "1234",
+        "tareas": [
+            {
+                "titulo": "Estudiar ",
+                "descripcion": "python",
+                "fecha_vencimiento": "2025-07-30",
+                "completado": false
+            }
+        ]
+    }
+}
